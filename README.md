@@ -1,6 +1,7 @@
 # なす単語リスト
 
 [単語リスト (plain text)](./nasu-vocabluary.txt)
+
 [単語リスト (csv)]()
 
 ## なす単語とは？
