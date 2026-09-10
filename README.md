@@ -2,7 +2,7 @@
 
 [単語リスト (markdown)](./nasu-vocabulary.md)
 
-[単語リスト (csv)]()
+[単語リスト (csv) 準備中]()
 
 ## なす単語とは？
 
