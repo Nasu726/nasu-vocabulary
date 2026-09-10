@@ -1,6 +1,6 @@
 # なす単語リスト
 
-[単語リスト (plain text)](./nasu-vocabluary.txt)
+[単語リスト (markdown)](./nasu-vocabluary.md)
 
 [単語リスト (csv)]()
 
